@@ -1,4 +1,4 @@
-👋 Hi, I’m Denis, a software engineer at Novu.
+👋 Hi, I’m Denis, this was my github account while working as a software engineer at Novu.
 
 I have been building software for 10 years and it shows no signs of stopping 🚀
 
